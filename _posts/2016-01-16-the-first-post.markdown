@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Post"
-data: 2016-01-17 13:58:41
+date: Sun, Jan 17, 2016  2:06:18 PM
 categories: Daily
 tags: Daily
 ---
